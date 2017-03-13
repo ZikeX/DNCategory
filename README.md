@@ -2,9 +2,9 @@
 
 ##CocoaPods
 
-Add `pod 'DNCategory'` to your Podfile.
-Run `pod install` or `pod update`
-`#import "DNCategory.h"`
+Add `pod 'DNCategory'` to your Podfile.   
+Run `pod install` or `pod update`  
+`#import "DNCategory.h"`  
 
 
 ## Function分类
